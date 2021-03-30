@@ -9,6 +9,7 @@
 ```
 ## 工具2
 > [HTTrack Website Copier](http://www.httrack.com/page/2/en/index.html)  
+> [如何下載整個網站資料、圖片？WinHTTrack工具下載及軟體使用教學](https://mrtang.tw/blog/post/37619077)
 ```
 下載網頁
 ```
