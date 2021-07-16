@@ -15,7 +15,7 @@
 ```
 
 ## CRUD
-POST = 新增
-GET = 讀取
-PUT = 更新
-DELETE = 刪除
+POST = 新增  
+GET = 讀取  
+PUT = 更新  
+DELETE = 刪除  
